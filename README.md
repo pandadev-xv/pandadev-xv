@@ -7,7 +7,7 @@ I'm a student deeply passionate about Artificial Intelligence, Python programmin
 - 🤖Currently I'm deeply interested in AI assistants that can remember meaningful information and retrieve them as needed
 
 ### What I'm currently working on
-- 🌿Improving my skills in AI, particularly in human-system interaction systems
+- 🌿Improving my skills in AI, particularly in human-computer interaction systems
 - 📚Learning new algorithms and building projects to showcase my knowledge and passion
 
 ### My skills
